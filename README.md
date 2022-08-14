@@ -21,7 +21,7 @@ Finally, the new visualizations are used via Tableau story and dashboards for fi
 - Checkout Times for Users
 <img width="1038" alt="Screen Shot 2022-08-13 at 11 20 23 PM" src="https://user-images.githubusercontent.com/104872971/184521005-e07b5740-fe6b-4e5d-8e40-7486d25e1d2f.png">
 Here's the display of the checkout times for users. With above 146,000 bikers checking out at 5 minutes. The graph shows an exponential drop where most bikers checking out before the 60 minutes mark. 
-##
+
 
 - Checkout Times by Gender
 <img width="1037" alt="Screen Shot 2022-08-13 at 11 21 16 PM" src="https://user-images.githubusercontent.com/104872971/184521017-d85b5854-fd9c-41b4-a492-2d29703db5f6.png">
