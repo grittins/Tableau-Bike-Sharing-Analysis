@@ -1,5 +1,5 @@
 # NYC-Citi-Bike-Sharing-Analysis
-Visualizations for investors that a bike-sharing program in Des Moines is a solid business proposal. The visualizations are created by analyzing Citi Bike-Sharing in NYC. 
+Visualizations for investors of a bike-sharing program in Des Moines. The visualizations are created by analyzing Citi Bike-Sharing in NYC. 
 
 ## Resources
 Data Source: 201908-citibike-tripdata-minutes.csv
