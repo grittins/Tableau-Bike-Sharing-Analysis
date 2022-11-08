@@ -2,8 +2,10 @@
 Visualizations for investors of a bike-sharing program in Des Moines. The visualizations are created by analyzing Citi Bike-Sharing in NYC. 
 
 ## Resources
-Data Source: 201908-citibike-tripdata-minutes.csv
-Software: Python, Jupyter Notebook, Tableau
+- Data Source: 201908-citibike-tripdata-minutes.csv
+- Software: Python, Jupyter Notebook, Tableau
+
+[Tableau Public Profile](https://public.tableau.com/app/profile/rezwan.ferdous)
 
 ## Overview of the analysis: 
 
