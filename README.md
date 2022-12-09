@@ -32,7 +32,7 @@ Here's a breakdown of the checkout times by gender. With all genders checking ou
 ## Summary:
 All in all, this bike-sharing analysis provides a lot of insight for a successful business as there are plenty of bikers using the service for their commute with a very high-percentage using the services to commute to and from their workplaces. 
 
-Here are some additional visualizations in the form of Tableau story and dashboards: 
+Here are some visualizations in the form of Tableau story and dashboards: 
 
 - [Working Hours Analysis](https://public.tableau.com/views/CitiBikeAnalysisStory/WorkingHoursAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link): 
 <img width="1013" alt="Screen Shot 2022-08-13 at 11 29 36 PM" src="https://user-images.githubusercontent.com/104872971/184521229-be04b8d6-edb2-4ad1-a157-151e00cddd6a.png">
