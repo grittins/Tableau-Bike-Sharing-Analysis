@@ -34,6 +34,9 @@ All in all, this bike-sharing analysis provides a lot of insight for a successfu
 
 Here are some visualizations in the form of Tableau story and dashboards: 
 
+<img width="998" alt="Screen Shot 2023-01-17 at 1 52 32 PM" src="https://user-images.githubusercontent.com/104872971/212986679-977d3acf-3b81-4066-9cd1-88446f6f953b.png">
+
+
 - [Working Hours Analysis](https://public.tableau.com/views/CitiBikeAnalysisStory/WorkingHoursAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link): 
 <img width="1013" alt="Screen Shot 2022-08-13 at 11 29 36 PM" src="https://user-images.githubusercontent.com/104872971/184521229-be04b8d6-edb2-4ad1-a157-151e00cddd6a.png">
 
